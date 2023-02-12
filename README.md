@@ -1,4 +1,4 @@
-# Portfolio project
+# Flask project
 
 Project description goes here.
 
